@@ -5,7 +5,7 @@ lowercase.toLowerCase()===lowercase
 var misedCase = 'Hi there!'
 
 function shout(string) {return string.toUpperCase () }
-function whisper(string) {return string.toLowerCase ()}
+function logWhisper(string) {return string.toLowerCase ("HELLO")}
 
 function logShout (string) {return console.log(string.toUppercase)+logshout("Hello!")}
 function sayHiToGrandma(string) {

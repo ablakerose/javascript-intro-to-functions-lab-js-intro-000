@@ -1,4 +1,5 @@
 var logShout = 'hello!'
+var logWhisper = 'hello' 
 
 function shout(string) {return string.toUpperCase () }
 function whisper(string) {return string.toLowerCase ()}
